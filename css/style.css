@@ -295,8 +295,8 @@ button:focus {
 }
 
 .custom-nav .navbar-brand.logo img {
-    height: 77px;
-    width: 150px;
+    height: 70px;
+    width: 36px;
 }
 
 /*==========================
@@ -1043,7 +1043,7 @@ textarea.form-control {
         padding: 130px 0 145px 0;
     }
     .custom-nav .navbar-brand.logo img {
-        height: 26px;
+        height: 32px;
     }
     .copy-rights {
         line-height: 26px;
